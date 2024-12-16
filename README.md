@@ -2,12 +2,21 @@
 
 A new Flutter project.
 
-Ai chat bot is uploaded at Amazonapp store :
+Ai chat bot is uploaded 
+  Amazonapp store :
+   app link : https://www.amazon.com/gp/product/B0DGH1JY2S
+  playstore :
+    uploading soon......!
 
-  my app link : https://www.amazon.com/gp/product/B0DGH1JY2S
+
+    
 
 
 ##Images
+
+
+
+
 
 
 ![img1](https://github.com/user-attachments/assets/863a8934-a7f0-49ba-b989-83f66ac9ec2f)
